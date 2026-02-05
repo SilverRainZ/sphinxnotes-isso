@@ -60,7 +60,7 @@ test = [
     "pytest",
 ]
 docs = [
-    "furo",
+    "shibuya",
     "sphinx_design",
     "sphinx_copybutton",
     "sphinxcontrib-gtagjs",
