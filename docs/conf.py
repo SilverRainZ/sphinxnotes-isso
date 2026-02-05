@@ -108,7 +108,7 @@ comboroles_roles = {
 }
 
 extensions.append('sphinxnotes.project')
-primary_domain = 'any'
+primary_domain = 'obj'
 
 # -- Eat your own dog food --------------------------------------------------
 
