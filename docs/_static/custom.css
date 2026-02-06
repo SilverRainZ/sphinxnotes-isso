@@ -1,0 +1,13 @@
+.isso-comment-footer {
+  display: flex;
+  gap: 8px;
+  height: 1.8em;
+}
+
+.isso-comment-footer > a {
+  top: 0;
+}
+
+.isso-reply {
+  padding: 0;
+}
